@@ -1,0 +1,33 @@
+.table-view .table-cell
+{ 
+	-fx-font-family: "Calibri";
+	-fx-font-size: 18px;
+	-fx-text-wrap: true;
+}
+
+.table-view .column-header-background .label
+{
+	-fx-font-family: "Calibri";
+	-fx-font-size: 20px;
+	-fx-text-alignment: center;
+}
+
+#centerColumnText
+{
+	 -fx-alignment: center;
+}
+
+.tab
+{
+	-fx-cursor: hand;
+}
+
+.combo-box-popup .list-view 
+{
+   -fx-cursor: hand;
+}
+
+.tab-pane *.tab-header-background
+{
+	-fx-background-color: transparent;
+}
